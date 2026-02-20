@@ -22,7 +22,7 @@ A [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server that in
 
 ### 1. Get Your Fathom API Key
 
-1. Go to [Fathom Settings](https://fathom.video/settings)
+1. Go to [Fathom Settings](https://fathom.video/customize)
 2. Navigate to **API Access**
 3. Click **Generate API Key**
 
